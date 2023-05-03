@@ -5,7 +5,7 @@ My build of the butte headphone amplifier from Pete Millett : http://www.pmillet
 ## Specs and features
 
 * Power supply : 12VAC 1A
-* Max output current : 200mA par canal
+* Max output current : 200mA per channel
 * Input 1 : RCA
 * Input 2 : TRS
 * input selection switch
