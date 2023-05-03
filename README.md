@@ -8,7 +8,7 @@ My build of the butte headphone amplifier from Pete Millett : http://www.pmillet
 * Max output current : 200mA per channel
 * Input 1 : RCA
 * Input 2 : TRS
-* input selection switch
+* Input selection switch
 * Headphone output
 * Volume control
 * ON/OFF switch and power led
