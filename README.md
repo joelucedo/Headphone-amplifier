@@ -13,4 +13,9 @@ My build of the butte headphone amplifier from Pete Millett : http://www.pmillet
 * Volume control
 * ON/OFF switch and power led
 
+## Changes from the original
+
+* LM2940CT-12 (not available) replaced by BAJ2CC0T from ROHM.
+* Size and board outline
+
 
